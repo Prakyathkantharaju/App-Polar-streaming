@@ -37,9 +37,6 @@ If you want to customize the project further, you can modify the `Polar` class i
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the project repository.
 
-## License
-
-This project is licensed under the [MIT License]. Feel free to use and modify the code as per the terms of the license.
 
 ## Acknowledgements
 
